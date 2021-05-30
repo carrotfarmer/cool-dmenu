@@ -7,6 +7,7 @@
 - Add the numbers of packages and search results
 - Case insensitive searching
 - Fuzzy highlights
+- Colorize adjacent values
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/66675022/120103904-81508300-c16f-11eb-9719-14c7658bb84b.png)
