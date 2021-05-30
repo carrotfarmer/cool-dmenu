@@ -10,8 +10,10 @@
 - Colorize adjacent values
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/66675022/120103904-81508300-c16f-11eb-9719-14c7658bb84b.png)
-![image](https://user-images.githubusercontent.com/66675022/120103949-c83e7880-c16f-11eb-9c23-e8af3758d4bd.png)
+![image](https://user-images.githubusercontent.com/66675022/120111099-32661600-c18e-11eb-9b34-ef8ca6cc6db9.png)
+![image](https://user-images.githubusercontent.com/66675022/120111020-c97e9e00-c18d-11eb-9fc1-d6b623013a59.png)
+![image](https://user-images.githubusercontent.com/66675022/120111030-d8655080-c18d-11eb-931b-37fd05163b7b.png)
+![image](https://user-images.githubusercontent.com/66675022/120111073-0d71a300-c18e-11eb-9a7d-8fe378b3d95c.png)
 
 Requirements
 ------------
